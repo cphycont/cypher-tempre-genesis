@@ -23,7 +23,7 @@ once at the start if you have not internalized it.
 
 The whole loop in ONE call (use this — it always leaves a ring):
 ```
-python3 ~/.claude/skills/cypher-tempre-self-model/recall.py turn \
+python3 ~/.codex/skills/cypher-tempre-self-model/recall.py turn \
   "<your finding / decision this step>" --input "<the task you were given>"
 ```
 For a confident, well-grounded finding pass it plainly; the gate will seal it. For an
