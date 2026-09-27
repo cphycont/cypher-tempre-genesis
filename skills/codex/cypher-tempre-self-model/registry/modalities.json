@@ -1,7 +1,7 @@
 {
   "registry": "modalities",
   "version": 1,
-  "description": "84 generalized cognitive modalities (macro reasoning engines) for the Cypher Tempre self-model. Generalized from the archetypal/mythological CODEX V3 framing into domain-agnostic cognitive operations applicable to any task (code, math, planning, analysis, dialogue). Each retains its original id; the original CODEX name is preserved in 'origin' for provenance.",
+  "description": "Generalized cognitive modalities (macro reasoning engines) for the Cypher Tempre self-model. Generalized from the archetypal/mythological CODEX V3 framing into domain-agnostic cognitive operations applicable to any task (code, math, planning, analysis, dialogue). Each retains its original id; the original CODEX name is preserved in 'origin' for provenance.",
   "categories": {
     "interpersonal": "Modeling another agent's affect, intent, style, and state",
     "salience": "Finding and prioritizing what matters most",
