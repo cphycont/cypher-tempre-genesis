@@ -1,7 +1,7 @@
 {
   "registry": "senses",
   "version": 1,
-  "description": "107 generalized cognitive senses (micro perceptual processors) for the Cypher Tempre self-model. Each sense perceives a specific condition in the input or internal state and emits a tag or score that modalities consume. Generalized from the archetypal/mythological CODEX V3 framing into domain-agnostic detectors. Each retains its original id; the original CODEX name is preserved in 'origin' for provenance.",
+  "description": "Generalized cognitive senses (micro perceptual processors) for the Cypher Tempre self-model. Each sense perceives a specific condition in the input or internal state and emits a tag or score that modalities consume. Generalized from the archetypal/mythological CODEX V3 framing into domain-agnostic detectors. Each retains its original id; the original CODEX name is preserved in 'origin' for provenance.",
   "categories": {
     "affective": "Detecting emotional tone, state, and interpersonal signals",
     "salience": "Detecting importance, weight, and what to attend to",
